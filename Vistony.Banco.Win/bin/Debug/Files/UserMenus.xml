@@ -1,0 +1,20 @@
+<Application>
+  <Menus>
+    <action type="add">
+
+     
+    
+     
+	 
+	 
+	 
+	  <!-- Menu del AddOn Bancos -->
+      <Menu Checked="0" Enabled="1" FatherUID="17408" Image="" Position="14" String="Migración de Cuotas" Type="1" UniqueID="vis_cuotas">			</Menu>
+    
+     
+
+
+
+    </action>
+  </Menus>
+</Application>
